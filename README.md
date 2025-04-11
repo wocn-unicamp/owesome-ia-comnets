@@ -4,6 +4,10 @@ This repository conatain useful and interesting information on applications of I
 # FL 
 ## Videos
 - [ The price of distributed machine learning​​ | ITU Journal | Webinar ](https://www.youtube.com/watch?v=GWrkUHGbh3M)
+
+# Important Conference
+- ICLR
+- ICLMA
   
 ## WiFi and Sensing
 -[DensePose From WiFi](https://arxiv.org/pdf/2301.00250)
