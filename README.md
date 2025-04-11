@@ -1,5 +1,5 @@
 # Owesome IA/ML in Communications Networks
-IA/ML for/in Communications netowrks
+This repository conatain useful and interesting information on applications of IA/ML for Communications Netowrks and Communications Netowrks for IA/ML
 
 # FL 
 ## Videos
